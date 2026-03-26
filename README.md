@@ -1,2 +1,2 @@
 # aula_teste
-teste c# criando repositorios
+exercicios da aula de c#
