@@ -1,2 +1,2 @@
 # aula_teste
-exercicios da aula de c#
+Exercicios realizados durante a aula de c#
